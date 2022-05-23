@@ -40,4 +40,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin2424&show_icons=true&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhrhkdwls24&layout=compact)](https://github.com/rhrhkdwls24/github-readme-stats)
+
 
