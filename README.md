@@ -14,4 +14,4 @@
 
 
 ### My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin2424&theme=great-gatsby_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin2424&show_icons=true&theme=great-gatsby)
