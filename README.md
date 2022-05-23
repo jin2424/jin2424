@@ -10,3 +10,8 @@
 - 🌱 currently learning : back-end
 - 💞️ Love: 🎞🎮💻🙋‍♂️
 - 📫 try
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin2424&theme=great-gatsby_icons=true)
