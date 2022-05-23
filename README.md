@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fab005&height=300&section=header&text=WELCOME!!&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 <div align=center>	
- # Nice to meet you, I'm Gwangjin🙋‍♂️
+ #Nice to meet you, I'm Gwangjin🙋‍♂️
 </div>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jin2424)](https://velog.io/@rhrhkdwls24) 
