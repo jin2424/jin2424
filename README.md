@@ -1,9 +1,7 @@
 ## Waving <a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WELCOME!&fontAlign=80&fontAlignY=40&color=timeAuto)
-<div align=center>
-	
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=WELCOME!&fontAlign=80&fontAlignY=100&color=timeAuto)
+<div align=center>	
  # Nice to meet you, I'm Gwangjin🙋‍♂️
-  
 </div>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jin2424)](https://velog.io/@rhrhkdwls24) 
