@@ -5,8 +5,11 @@
 </div>
 
 <div align=center>	
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jin2424)](https://velog.io/@rhrhkdwls24) 
+ 
+<a href="https://velog.io/@rhrhkdwls24"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+ 
 </div>
+
 
 - 🌱 currently learning : back-end
 - 💞️ Love: 🎞🎮💻🙋‍♂️
