@@ -4,7 +4,9 @@
  #Nice to meet you, I'm Gwangjin🙋‍♂️
 </div>
 
+<div align=center>	
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jin2424)](https://velog.io/@rhrhkdwls24) 
+</div>
 
 - 🌱 currently learning : back-end
 - 💞️ Love: 🎞🎮💻🙋‍♂️
@@ -37,5 +39,5 @@
 <h3 align="center">🖌 My stats 🖌</h3>
 
 <div align=center>
-!(https://github-readme-stats.vercel.app/api?username=jin2424&show_icons=true&theme=great-gatsby)
+[![Velog's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin2424&show_icons=true&theme=great-gatsby)
 </div>
