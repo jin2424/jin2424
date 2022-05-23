@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fab005&height=300&section=header&text=WELCOME!!&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 <h1 align=center>	
- #Nice to meet you, I'm Gwangjin🙋‍♂️
+ Nice to meet you, I'm Gwangjin🙋‍♂️
 </h1>
 
 <div align=center>	
