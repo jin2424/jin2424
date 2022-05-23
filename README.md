@@ -39,5 +39,5 @@
 <h3 align="center">🖌 My stats 🖌</h3>
 
 <div align=center>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin2424&show_icons=true&theme=great-gatsby)
+!(https://github-readme-stats.vercel.app/api?username=jin2424&show_icons=true&theme=great-gatsby)
 </div>
