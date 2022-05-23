@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fab005&height=300&section=header&text=WELCOME!!&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-<div align=center>	
- ## Nice to meet you, I'm Gwangjin🙋‍♂️
-</div>
+<h1 align=center>	
+ #Nice to meet you, I'm Gwangjin🙋‍♂️
+</h1>
 
 <div align=center>	
 <a href="https://velog.io/@rhrhkdwls24"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
