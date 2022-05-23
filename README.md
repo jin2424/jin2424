@@ -41,7 +41,6 @@
 
 <br>
 
-<h3 align="center">🪄 Blog 🪄</h3>
 
 ----------
 ### 🖌My stats
