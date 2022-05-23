@@ -1,3 +1,9 @@
+<div align=center>
+	
+ # Nice to meet you, I'm Gwangjin🙋‍♂️
+  
+</div>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jin2424)](https://velog.io/@rhrhkdwls24) 
 
 <div align=center>
