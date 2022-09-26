@@ -11,7 +11,6 @@
 - 🌱 currently learning : back-end
 - 💞️ Love: 🎞🎮💻🙋‍♂️
 - 📫 try
-- 
 ------
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
